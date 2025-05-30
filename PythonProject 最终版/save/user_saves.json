@@ -1,0 +1,584 @@
+{
+    "123": {
+        "map": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                -10,
+                1,
+                -10,
+                -10
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        ],
+        "blocs": {
+            "A": {
+                "position": [
+                    2,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "B": {
+                "position": [
+                    4,
+                    4
+                ],
+                "rotation_state": 2,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "C": {
+                "position": [
+                    3,
+                    3
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 1,
+                "placed": true
+            },
+            "D": {
+                "position": [
+                    0,
+                    4
+                ],
+                "rotation_state": 3,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "E": {
+                "position": [
+                    2,
+                    1
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "F": {
+                "position": [
+                    0,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            }
+        },
+        "time_elapsed": 74.8,
+        "save_time": "2025-05-28 15:42:50"
+    },
+    "111": {
+        "map": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                -10,
+                1,
+                1,
+                1,
+                -10
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                -10,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        ],
+        "blocs": {
+            "A": {
+                "position": [
+                    0,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "B": {
+                "position": [
+                    3,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "C": {
+                "position": [
+                    0,
+                    2
+                ],
+                "rotation_state": 2,
+                "mirrow_state": 1,
+                "placed": true
+            },
+            "D": {
+                "position": [
+                    2,
+                    4
+                ],
+                "rotation_state": 2,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "E": {
+                "position": [
+                    2,
+                    2
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "F": {
+                "position": [
+                    3,
+                    3
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            }
+        },
+        "time_elapsed": 41.8,
+        "save_time": "2025-05-28 14:47:11"
+    },
+    "000": {
+        "map": [
+            [
+                1,
+                1,
+                1,
+                1,
+                -10
+            ],
+            [
+                1,
+                1,
+                1,
+                -10,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                -10,
+                1,
+                1,
+                1
+            ]
+        ],
+        "blocs": {
+            "A": {
+                "position": [
+                    0,
+                    2
+                ],
+                "rotation_state": 1,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "B": {
+                "position": [
+                    0,
+                    1
+                ],
+                "rotation_state": 3,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "C": {
+                "position": [
+                    4,
+                    1
+                ],
+                "rotation_state": 1,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "D": {
+                "position": [
+                    1,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "E": {
+                "position": [
+                    4,
+                    4
+                ],
+                "rotation_state": 2,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "F": {
+                "position": [
+                    1,
+                    2
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            }
+        },
+        "time_elapsed": 32.7,
+        "save_time": "2025-05-28 14:44:16"
+    },
+    "222": {
+        "map": [
+            [
+                0,
+                -10,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                -10
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                -10,
+                0,
+                0,
+                0
+            ]
+        ],
+        "blocs": {
+            "A": {
+                "position": [
+                    0,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": false
+            },
+            "B": {
+                "position": [
+                    0,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": false
+            },
+            "C": {
+                "position": [
+                    0,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": false
+            },
+            "D": {
+                "position": [
+                    0,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": false
+            },
+            "E": {
+                "position": [
+                    0,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": false
+            },
+            "F": {
+                "position": [
+                    0,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": false
+            }
+        },
+        "time_elapsed": 7.2,
+        "save_time": "2025-05-28 14:47:33"
+    },
+    "333": {
+        "map": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                -10
+            ],
+            [
+                1,
+                -10,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                -10,
+                1,
+                1,
+                1
+            ]
+        ],
+        "blocs": {
+            "A": {
+                "position": [
+                    0,
+                    2
+                ],
+                "rotation_state": 1,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "B": {
+                "position": [
+                    4,
+                    1
+                ],
+                "rotation_state": 2,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "C": {
+                "position": [
+                    0,
+                    0
+                ],
+                "rotation_state": 1,
+                "mirrow_state": 1,
+                "placed": true
+            },
+            "D": {
+                "position": [
+                    1,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "E": {
+                "position": [
+                    4,
+                    4
+                ],
+                "rotation_state": 2,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "F": {
+                "position": [
+                    2,
+                    2
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            }
+        },
+        "time_elapsed": 207.6,
+        "save_time": "2025-05-28 15:09:17"
+    },
+    "abc": {
+        "map": [
+            [
+                -10,
+                1,
+                1,
+                -10,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                -10,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        ],
+        "blocs": {
+            "A": {
+                "position": [
+                    4,
+                    0
+                ],
+                "rotation_state": 1,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "B": {
+                "position": [
+                    1,
+                    1
+                ],
+                "rotation_state": 1,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "C": {
+                "position": [
+                    1,
+                    0
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "D": {
+                "position": [
+                    2,
+                    2
+                ],
+                "rotation_state": 1,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "E": {
+                "position": [
+                    0,
+                    4
+                ],
+                "rotation_state": 3,
+                "mirrow_state": 0,
+                "placed": true
+            },
+            "F": {
+                "position": [
+                    3,
+                    3
+                ],
+                "rotation_state": 0,
+                "mirrow_state": 0,
+                "placed": true
+            }
+        },
+        "time_elapsed": 36.6,
+        "save_time": "2025-05-28 15:51:40"
+    }
+}

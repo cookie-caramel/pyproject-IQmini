@@ -12,6 +12,9 @@ A tile-based puzzle game with auto-solving functionality. Designed as a school p
 ## Tech Stack
 - Language: Python 3.x
 - Libraries: Pygame, json
+To install Pygame:
+```bash
+pip install pygme
 
 ## Auto-solving System
 The solver uses backtracking with constraints (illegal positions, shape matching, and dead-end pruning).

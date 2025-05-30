@@ -4,7 +4,7 @@ A tile-based puzzle game with auto-solving functionality. Designed as a school p
 ## Features
 - 5x5 tile grid with obstacle support
 - Block rotation and placement
-- Real-time solvability hint system
+- Real-time solvability hint system (can find a solution for about 70% puzzles at the beginning)
 - Simple GUI (Pygame)
 - Save and load possible
 - Score Board

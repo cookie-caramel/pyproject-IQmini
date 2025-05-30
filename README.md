@@ -17,4 +17,5 @@ A tile-based puzzle game with auto-solving functionality. Designed as a school p
 The solver uses backtracking with constraints (illegal positions, shape matching, and dead-end pruning).
 
 ## How to Run
+```bash
 python main.py

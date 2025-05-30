@@ -1,4 +1,4 @@
-# pyproject-IQmini
+# Pyproject-IQmini
 A tile-based puzzle game with auto-solving functionality. Designed as a school project for practicing path-finding algorithms and UI logic implementation.
 
 ## Features
@@ -15,6 +15,7 @@ A tile-based puzzle game with auto-solving functionality. Designed as a school p
 To install Pygame:
 ```bash
 pip install pygme
+```
 
 ## Auto-solving System
 The solver uses backtracking with constraints (illegal positions, shape matching, and dead-end pruning).
